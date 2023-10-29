@@ -1,0 +1,1297 @@
+[{
+        "id": 1,
+        "name": "5 Centimeters Per Second",
+        "category_id": 1,
+        "Age": "7+",
+        "image": "https://i.ibb.co/9y26c60/1.jpg",
+        "year": 2007,
+        "info": "Inseparable fourth-graders Takaki Tonoo and Akari Shinohara -- bonded by a love of books -- begin to slowly drift apart when their families relocate."
+    },
+    {
+        "id": 2,
+        "name": "Jujutsu Kaisen",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/9NRfskY/download.jpg",
+        "year": 2020,
+        "info": "With his days numbered, high schooler Yuji decides to hunt down and consume the remaining 19 fingers of a deadly curse so it can die with him."
+    },
+    {
+        "id": 3,
+        "name": "Naruto",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/NF8tBJL/download.jpg",
+        "year": 2002,
+        "info": "Guided by the spirit demon within him, orphaned Naruto learns to harness his powers as a ninja in this anime adventure series."
+    },
+    {
+        "id": 4,
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/jWfDjxg/download.jpg",
+        "year": 2019,
+        "info": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost."
+    },
+    {
+        "id": 5,
+        "name": "Baki",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/xFXWmMx/AAAABfo-Dy-Xb-GEUo-XKy-HJdd2-Kw1i-H4jc7d481-Yk-7uw2-DWE-Pps6-QMMvcs3-W2-Xgs-Bisx8-Ru-BPv-ZRNk-Nf4-TB.jpg",
+        "year": 2018,
+        "info": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on."
+    },
+    {
+        "id": 6,
+        "name": "DEATH NOTE",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/Wp1yW0p/download.jpg",
+        "year": 2006,
+        "info": "When a Japanese high schooler comes into possession of a mystical notebook, he finds he has the power to kill anybody whose name he enters in it."
+    },
+    {
+        "id": 7,
+        "name": "SPY x FAMILY",
+        "category_id": 1,
+        "Age": "13+",
+        "image": "https://i.ibb.co/58XBScv/AAAABRTuj-F0-Mm-TBXPCoay-J8-Col-ks-Gh1-K6mk4-EHL5xu-Jg9-WLg-D77o9xap-Gx0gi8jl-Wck-Zwybnh-BHamd-Oo-QX.webp",
+        "year": 2022,
+        "info": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other."
+    },
+    {
+        "id": 8,
+        "name": "Hunter X Hunter (2011)",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/hBr8rgc/download.jpg",
+        "year": 2011,
+        "info": "To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father."
+    },
+    {
+        "id": 9,
+        "name": "BASTARD‼ -Heavy Metal, Dark Fantasy",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/BygCFVH/download.jpg",
+        "year": 2022,
+        "info": "When evil forces threaten to resurrect Anthrasax, the God of Destruction, the Kingdom of Meta-llicana calls on a volatile dark wizard for help."
+    },
+    {
+        "id": 10,
+        "name": "Major",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/j89x3xx/download.jpg",
+        "year": 2022,
+        "info": "This biopic follows the life of Indian Army officer Major Sandeep Unnikrishnan, from his childhood to his heroic actions during the 2008 Mumbai attacks."
+    },
+    {
+        "id": 11,
+        "name": "Anek",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/dmRb9pG/download.jpg",
+        "year": 2022,
+        "info": "Amid turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams."
+    },
+    {
+        "id": 12,
+        "name": "Breaking Bad",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/2WXFWT5/download.jpg",
+        "year": 2006,
+        "info": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future."
+    },
+    {
+        "id": 13,
+        "name": "Vikings",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/6X547qf/download.jpg",
+        "year": 2013,
+        "info": "This gritty drama charts the exploits of Viking hero Ragnar Lothbrok as he extends the Norse reach by challenging an unfit leader who lacks vision."
+    },
+    {
+        "id": 14,
+        "name": "Peaky Blinders",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/j4rBx2B/download.jpg",
+        "year": 2013,
+        "info": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost."
+    },
+    {
+        "id": 15,
+        "name": "Squid Game",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/m562N7G/download.jpg",
+        "year": 2021,
+        "info": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes."
+    },
+    {
+        "id": 16,
+        "name": "Lost in Space",
+        "category_id": 2,
+        "Age": "7+",
+        "image": "https://i.ibb.co/NnnY348/download.jpg",
+        "year": 2018,
+        "info": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers."
+    },
+    {
+        "id": 17,
+        "name": "The Vampire Diaries",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/Jty4CDX/download.jpg",
+        "year": 2009,
+        "info": "Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating teenager Elena."
+    },
+    {
+        "id": 18,
+        "name": "The Last Kingdom",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/L9XDgMw/download.jpg",
+        "year": 2015,
+        "info": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred -- born a Saxon but raised by Vikings -- seeks to claim his ancestral birthright."
+    },
+    {
+        "id": 19,
+        "name": "Yankee",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/gT7w43c/download.jpg",
+        "year": 2019,
+        "info": "On the run from the police, an Arizona man crosses into Mexico and gets deeply involved in drug trafficking -- with the help of modern technology."
+    },
+    {
+        "id": 20,
+        "name": "Gurgaon",
+        "category_id": 3,
+        "Age": "16+",
+        "image": "https://i.ibb.co/p0JgzhT/download.jpg",
+        "year": 2017,
+        "info": "When the daughter of a wealthy family returns from college, she gets a frosty welcome from her brother, who has problems -- and plans -- of his own."
+    },
+    {
+        "id": 21,
+        "name": "The Darkest Light",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/QYHz0Jw/download.jpg",
+        "year": 2022,
+        "info": "Two sisters must face a new reality — and supernatural elements — when it's revealed their parents participated in a cult ritual ending in death."
+    },
+    {
+        "id": 22,
+        "name": "Inglourious Basterds",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/Qb5gnz6/download.jpg",
+        "year": 2009,
+        "info": "A Jewish cinema owner in occupied Paris is forced to host a Nazi premiere, where a group of American soldiers called the Basterds plans a face-off."
+    },
+    {
+        "id": 23,
+        "name": "The Sinner",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/tC3DQL3/download.jpg",
+        "year": 2017,
+        "info": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons."
+    },
+    {
+        "id": 24,
+        "name": "MOM",
+        "category_id": 3,
+        "Age": "16+",
+        "image": "https://i.ibb.co/NY8Nwkp/download.jpg",
+        "year": 2017,
+        "info": "After her stepdaughter is sexually assaulted at a party, a furious mother sets out to destroy the lives of the four perpetrators who walked away free."
+    },
+    {
+        "id": 25,
+        "name": "WHAT / IF",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/MpVcznG/download.jpg",
+        "year": 2019,
+        "info": "Desperate to secure funding for her med tech startup, an idealistic scientist and her husband strike an outrageous deal with a mysterious investor."
+    },
+    {
+        "id": 26,
+        "name": "No Country for Old Men",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/ZGh5V4p/download.jpg",
+        "year": 2007,
+        "info": "A drug deal gone bad and a bag full of cash entwine an unsuspecting hunter, a veteran sheriff and a murderous hit man in the stark West Texas desert."
+    },
+    {
+        "id": 27,
+        "name": "Sacred Games",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/dgJpmsK/download.jpg",
+        "year": 2018,
+        "info": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+    },
+    {
+        "id": 28,
+        "name": "Fauda",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/K2j05Cf/download.jpg",
+        "year": 2015,
+        "info": "A top Israeli agent comes out of retirement to hunt for a Palestinian fighter he thought he'd killed, setting a chaotic chain of events into motion."
+    },
+    {
+        "id": 29,
+        "name": "S.W.A.T.",
+        "category_id": 4,
+        "Age": "13+",
+        "image": "https://i.ibb.co/JtQyvQS/download.jpg",
+        "year": 2017,
+        "info": "In his hometown of L.A., a sergeant is tasked with leading an elite team of officers — and defusing deadly tensions in his community."
+    },
+    {
+        "id": 30,
+        "name": "Titans",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/sFKv9NL/download.jpg",
+        "year": 2018,
+        "info": "After striking out on his own, Batman's former partner Dick Grayson encounters a number of troubled young heroes in desperate need of a mentor."
+    },
+    {
+        "id": 31,
+        "name": "Arrow",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/25x3zmY/download.jpg",
+        "year": 2012,
+        "info": "Based on DC Comics' Green Arrow, an affluent playboy becomes a vengeful superhero, saving the city from villains armed with just a bow and arrows."
+    },
+    {
+        "id": 32,
+        "name": "The Protector",
+        "category_id": 4,
+        "Age": "18",
+        "image": "https://i.ibb.co/mh1dbfL/download.jpg",
+        "year": 2018,
+        "info": "Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy."
+    },
+    {
+        "id": 33,
+        "name": "Snowpiercer",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/CWfpwqT/download.jpg",
+        "year": 2020,
+        "info": "Earth has frozen over and the last surviving humans live on a giant train circling the globe, struggling to coexist amid the delicate balance onboard."
+    },
+    {
+        "id": 34,
+        "name": "https://i.ibb.co/XJMQZJr/download.jpg",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/XJMQZJr/download.jpg",
+        "year": 2018,
+        "info": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder."
+    },
+    {
+        "id": 35,
+        "name": "Minnal Murali",
+        "category_id": 4,
+        "Age": "16+",
+        "image": "https://i.ibb.co/N9KZJGK/download.jpg",
+        "year": 2021,
+        "info": "A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown needs."
+    },
+    {
+        "id": 36,
+        "name": "Raising Dion",
+        "category_id": 4,
+        "Age": "7+",
+        "image": "https://i.ibb.co/x1sSBW2/download.jpg",
+        "year": 2019,
+        "info": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps."
+    },
+    {
+        "id": 37,
+        "name": "Bhool Bhulaiyaa 2",
+        "category_id": 5,
+        "Age": "13+",
+        "image": "https://i.ibb.co/kStrHDX/download.jpg",
+        "year": 2022,
+        "info": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years."
+    },
+    {
+        "id": 38,
+        "name": "Stranger Things",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/VDdb70Z/download.jpg",
+        "year": 2016,
+        "info": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
+    },
+    {
+        "id": 39,
+        "name": "Love, Death & Robots",
+        "category_id": 5,
+        "Age": "A",
+        "image": "https://i.ibb.co/HHjMvJ7/download.jpg",
+        "year": 2019,
+        "info": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+    },
+    {
+        "id": 40,
+        "name": "The Conjuring",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/jDT42WQ/download.jpg",
+        "year": 2013,
+        "info": "When a family starts experiencing supernatural terrors after moving into a Rhode Island farmhouse, they seek the help of a pair of noted demonologists."
+    },
+    {
+        "id": 41,
+        "name": "The Haunting of Hill House",
+        "category_id": 5,
+        "Age": "A",
+        "image": "https://i.ibb.co/3df11LB/download.jpg",
+        "year": 2018,
+        "info": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
+    },
+    {
+        "id": 42,
+        "name": "Ouija: Origin of Evil",
+        "category_id": 5,
+        "Age": "13+",
+        "image": "https://i.ibb.co/gTjq4MZ/download.jpg",
+        "year": 2016,
+        "info": "In 1960s California, a fake medium's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead."
+    },
+    {
+        "id": 43,
+        "name": "The Nun",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/x129H1N/download.jpg",
+        "year": 2018,
+        "info": "A young nun travels with a priest to Romania to uncover the secrets behind a malevolent spirit haunting a sacred site."
+    },
+    {
+        "id": 44,
+        "name": "Annabelle",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/HXxXS1q/download.jpg",
+        "year": 2014,
+        "info": "When a husband finds the perfect gift for his wife -- a beautiful and rare doll -- the joy the creepy object brings to her is short-lived."
+    },
+    {
+        "id": 45,
+        "name": "Insidious: Chapter 3",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/g4KTp87/download.jpg",
+        "year": 2015,
+        "info": "When psychic Elise Rainier reluctantly agrees to help a teen contact her deceased mother, she unwittingly unleashes a demon that torments the girl."
+    },
+    {
+        "id": 46,
+        "name": "Spider-Man: No Way Home",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/Ydv0Kyc/download.jpg",
+        "year": 2021,
+        "info": "When his loved ones are put at risk, Peter Parker asks Doctor Strange to restore his secret — and accidentally sets off a disaster of epic proportions."
+    },
+    {
+        "id": 47,
+        "name": "Dasvi",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/wrnXCLf/download.jpg",
+        "year": 2021,
+        "info": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school, while his scheming wife has plans of her own."
+    },
+    {
+        "id": 48,
+        "name": "Toolsidas Junior",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/jzKYszB/download.jpg",
+        "year": 2022,
+        "info": "A young boy seeks to master the game of snooker to defend his father’s legacy after a humiliating loss. But first, he’ll need help from a hardened pro."
+    },
+    {
+        "id": 49,
+        "name": "Lost in Space",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/YWmykYT/download.jpg",
+        "year": 2018,
+        "info": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers."
+    },
+    {
+        "id": 50,
+        "name": "Jurassic World Camp Cretaceous",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/kJ8rTfW/download.jpg",
+        "year": 2020,
+        "info": "Six teens invited to attend a state-of-the-art adventure camp on Isla Nublar must band together to survive when the dinosaurs break out of captivity."
+    },
+    {
+        "id": 51,
+        "name": "Ghostbusters: Afterlife",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/7kr0dTP/download.jpg",
+        "year": 2021,
+        "info": "A new start in a small town reveals signs of a young family's secret supernatural legacy — and reignites dark paranormal forces seeking revenge."
+    },
+    {
+        "id": 52,
+        "name": "Jumanji: The Next Level",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/ScsBpYx/download.jpg",
+        "year": 2013,
+        "info": "When Spencer goes missing, Martha, Bethany and Fridge realize they must go back into Jumanji to find him — but something goes wrong."
+    },
+    {
+        "id": 53,
+        "name": "Sonic the Hedgehog",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/SVfYPf9/download.jpg",
+        "year": 2020,
+        "info": "A small-town sheriff helps an alien hedgehog with supersonic speed outrun a mad doctor who wants the creature's special powers to dominate the world."
+    },
+    {
+        "id": 54,
+        "name": "STAND BY ME Doraemon 2",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/ryHX7KS/download.jpg",
+        "year": 2020,
+        "info": "Nobita travels to the future to show his beloved grandma his bride, but adult Nobita has fled his own wedding. Can he ever be a good husband to Shizuka?"
+    },
+    {
+        "id": 55,
+        "name": "Kapoor & Sons",
+        "category_id": 7,
+        "Age": "13+",
+        "image": "https://i.ibb.co/1Z60x1T/download.jpg",
+        "year": 2016,
+        "info": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents’ marriage frays."
+    },
+    {
+        "id": 56,
+        "name": "Dream Home Makeover",
+        "category_id": 7,
+        "Age": "7+",
+        "image": "https://i.ibb.co/KjcR4R7/download.jpg",
+        "year": 2020,
+        "info": "Dreams come true for real families looking for the perfect home tailored to their own unique style, thanks to Shea and Syd McGee of Studio McGee."
+    },
+    {
+        "id": 57,
+        "name": "My Next Guest with David Letterman and Shah Rukh Khan",
+        "category_id": 7,
+        "Age": "U",
+        "image": "https://i.ibb.co/jhgkbGT/download.jpg",
+        "year": 2019,
+        "info": "'King of Bollywood' Shah Rukh Khan opens up about his rise to fame, his family and his billions of fans as he and Dave meet up in Mumbai and New York."
+    },
+    {
+        "id": 58,
+        "name": "My Next Guest Needs No Introduction With David Letterman",
+        "category_id": 7,
+        "Age": "16+",
+        "image": "https://i.ibb.co/DtfsqDk/download.jpg",
+        "year": 2018,
+        "info": "TV legend David Letterman teams up with fascinating global figures for in-depth interviews and curiosity-fueled excursions in this talk show."
+    },
+    {
+        "id": 59,
+        "name": "The Society",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/MZyz8wS/download.jpg",
+        "year": 2019,
+        "info": "When everyone else mysteriously vanishes from their wealthy town, the teen residents of West Ham must forge their own society to survive."
+    },
+    {
+        "id": 60,
+        "name": "Love Per Square Foot",
+        "category_id": 7,
+        "Age": "13+",
+        "image": "https://i.ibb.co/984kN7j/download.jpg",
+        "year": 2018,
+        "info": "Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience."
+    },
+    {
+        "id": 61,
+        "name": "Awake: The Million Dollar Game",
+        "category_id": 7,
+        "Age": "7+",
+        "image": "https://i.ibb.co/PxRRSRh/download.jpg",
+        "year": 2019,
+        "info": "Sleepless for 24 hours, contestants in the comedy game show stumble through challenges both eccentric and everyday for a chance at a $1 million prize."
+    },
+    {
+        "id": 62,
+        "name": "Mismatched",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/y8kwLr8/download.jpg",
+        "year": 2020,
+        "info": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program — but deeper feelings aren’t far behind."
+    },
+    {
+        "id": 63,
+        "name": "Sanju",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/XCyzDWV/download.jpg",
+        "year": 2018,
+        "info": "From the depths of addiction to the heights of stardom to underworld entanglements, this biopic traces the checkered past of Indian actor Sanjay Dutt."
+    },
+    {
+        "id": 64,
+        "name": "Virata Parvam",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "",
+        "year": 2022,
+        "info": "Captivated by the poems of a renegade warrior on a lethal mission, a naive yet defiant young woman follows her heart into the depths of a revolution."
+    },
+    {
+        "id": 65,
+        "name": "Little Things",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/3hD77cy/download.jpg",
+        "year": 2016,
+        "info": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Mumbai."
+    },
+    {
+        "id": 66,
+        "name": "Crash Landing on You",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/Gk0xM9j/download.jpg",
+        "year": 2019,
+        "info": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide."
+    },
+    {
+        "id": 67,
+        "name": "Chandigarh Kare Aashiqui",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/h2dgqst/download.jpg",
+        "year": 2021,
+        "info": "Sparks fly when bodybuilder Manu meets Zumba instructor Maanvi, but Manu struggles with ingrained bias upon learning Maanvi's deeply personal story."
+    },
+    {
+        "id": 68,
+        "name": "It's Okay to Not Be Okay",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/ySj64xd/download.jpg",
+        "year": 2020,
+        "info": "An extraordinary road to emotional healing opens up for an antisocial children's book writer and a selfless psych ward caretaker when they cross paths."
+    },
+    {
+        "id": 69,
+        "name": "First Kill",
+        "category_id": 8,
+        "Age": "A",
+        "image": "https://i.ibb.co/HnG8VNG/download.jpg",
+        "year": 2022,
+        "info": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill."
+    },
+    {
+        "id": 70,
+        "name": "Radhe Shyam (Hindi)",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/YBVptcp/download.jpg",
+        "year": 2022,
+        "info": "Convinced he isn't destined for love, a renowned palmist must question everything he believes when he falls for a doctor with an uncertain future."
+    },
+    {
+        "id": 71,
+        "name": "Ginny Weds Sunny",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/y6S2gtH/download.jpg",
+        "year": 2020,
+        "info": "Eager to marry but constantly rejected by women, a bachelor hopes to win over a former crush by accepting help from an unlikely source: her mother."
+    },
+    {
+        "id": 72,
+        "name": "Love Aaj Kal",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/f9xQxsc/download.jpg",
+        "year": 2020,
+        "info": "When professional ambitions clash with personal feelings for a modern-day couple, a love story from a bygone decade may offer some wisdom."
+    },
+    {
+        "id": 73,
+        "name": "Man Vs Bee",
+        "category_id": 9,
+        "Age": "7+",
+        "image": "https://i.ibb.co/12yBjPs/download.jpg",
+        "year": 2022,
+        "info": "Bumbling dad Trevor tries to get the best of a cunning bee while house-sitting a posh mansion — but only unleashes more chaos in this comedy series."
+    },
+    {
+        "id": 74,
+        "name": "Friends",
+        "category_id": 9,
+        "Age": "13+",
+        "image": "https://i.ibb.co/4RHST8Q/download.jpg",
+        "year": 1994,
+        "info": "This hit sitcom follows the merry misadventures of six 20-something pals as they navigate the pitfalls of work, life and love in 1990s Manhattan."
+    },
+    {
+        "id": 75,
+        "name": "Suits",
+        "category_id": 9,
+        "Age": "16+",
+        "image": "https://i.ibb.co/TMQD8hp/download.jpg",
+        "year": 2011,
+        "info": "When he impresses a big lawyer with his razor-sharp mind, a college dropout scores a coveted associate job, even though he has no legal credentials."
+    },
+    {
+        "id": 76,
+        "name": "Little Things",
+        "category_id": 9,
+        "Age": "16+",
+        "image": "https://i.ibb.co/3hD77cy/download.jpg",
+        "year": 2016,
+        "info": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Mumbai."
+    },
+    {
+        "id": 77,
+        "name": "The Dictator",
+        "category_id": 9,
+        "Age": "A",
+        "image": "https://i.ibb.co/598ttyp/download.jpg",
+        "year": 2012,
+        "info": "This comedy chronicles the glorious efforts of General Aladeen, dictator of the Republic of Wadiya, to oppress his people and fight democracy."
+    },
+    {
+        "id": 78,
+        "name": "Chaman Bahaar",
+        "category_id": 9,
+        "Age": "16+",
+        "image": "https://i.ibb.co/yS0cPCG/download.jpg",
+        "year": 2016,
+        "info": "A local shop becomes a hub for young men taken with the new neighbor. But as business booms, it may leave the equally smitten storeowner heartbroken."
+    },
+    {
+        "id": 79,
+        "name": "Chup Chup Ke",
+        "category_id": 9,
+        "Age": "13+",
+        "image": "https://i.ibb.co/GHxLNDg/download.jpg",
+        "year": 2006,
+        "info": "Mistaking a broke, small-time hustler for a millionaire, two bumbling fishermen hatch a scheme to use him to help pay off their debts."
+    },
+    {
+        "id": 80,
+        "name": "Johnny English Reborn",
+        "category_id": 9,
+        "Age": "13+",
+        "image": "https://i.ibb.co/WtjKX86/download.jpg",
+        "year": 2011,
+        "info": "Bumbling spy Johnny English sharpens his skills at a Tibetan monastery and returns to service to protect the Chinese premier from an assassin."
+    },
+    {
+        "id": 81,
+        "name": "Santa Banta Pvt Ltd",
+        "category_id": 9,
+        "Age": "13+",
+        "image": "https://i.ibb.co/ZT1P0gF/download.jpg",
+        "year": 2016,
+        "info": "Passed off as spies, two inept pals are sent to Fiji to rescue a kidnapped bureaucrat. Soon enough, they’re creating more problems than they’re solving."
+    },
+    {
+        "id": 82,
+        "name": "Tenet",
+        "category_id": 10,
+        "Age": "13+",
+        "image": "https://i.ibb.co/0F6t6n2/download.jpg",
+        "year": 2020,
+        "info": "An undercover agent must retrieve a mysterious and powerful weapon in order to stop a temporal war that could destroy the world."
+    },
+    {
+        "id": 83,
+        "name": "Star Trek Beyond",
+        "category_id": 10,
+        "Age": "A",
+        "image": "https://i.ibb.co/9bdGwbh/download.jpg",
+        "year": 2016,
+        "info": "After an alien seeking revenge on Starfleet destroys the Enterprise and maroons its crew on a lost planet, Capt. Kirk must prevent another attack."
+    },
+    {
+        "id": 84,
+        "name": "The 100",
+        "category_id": 10,
+        "Age": "A",
+        "image": "https://i.ibb.co/N2TK350/download.jpg",
+        "year": 2016,
+        "info": "A century after Earth was devastated by a nuclear apocalypse, 100 space station residents are sent to the planet to determine whether it's habitable."
+    },
+    {
+        "id": 85,
+        "name": "Venom: Let There Be Carnage",
+        "category_id": 10,
+        "Age": "13+",
+        "image": "https://i.ibb.co/NpJvBtJ/download.jpg",
+        "year": 2021,
+        "info": "While Eddie Brock and Venom try to navigate their thorny relationship, a new threat rises from serial killer Cletus Kasady and a new alien symbiote."
+    },
+    {
+        "id": 86,
+        "name": "Transformers: Age of Extinction",
+        "category_id": 10,
+        "Age": "13+",
+        "image": "https://i.ibb.co/N2ndzK3/download.jpg",
+        "year": 2014,
+        "info": "Five years after Chicago was destroyed, humans have turned against all robots. But a single dad and inventor resurrects one that may save the world."
+    },
+    {
+        "id": 87,
+        "name": "Terminator Genisys",
+        "category_id": 10,
+        "Age": "13+",
+        "image": "https://i.ibb.co/NVKrvWm/download.jpg",
+        "year": 2015,
+        "info": "Thirty years after judgment day, John Connor sends a friend back to save his mother and stop the conflagration, unaware that things have changed."
+    },
+    {
+        "id": 88,
+        "name": "Hulk",
+        "category_id": 10,
+        "Age": "13+",
+        "image": "https://i.ibb.co/bPqb3bS/download.jpg",
+        "year": 2003,
+        "info": "Researcher Bruce Banner's failed experiments cause him to mutate into a powerful and savage green-skinned hulk when he loses control of his emotions."
+    },
+    {
+        "id": 89,
+        "name": "Project Power",
+        "category_id": 10,
+        "Age": "16+",
+        "image": "https://i.ibb.co/6tsNphh/download.jpg",
+        "year": 2020,
+        "info": "An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers."
+    },
+    {
+        "id": 90,
+        "name": "Chappie",
+        "category_id": 10,
+        "Age": "16+",
+        "image": "https://i.ibb.co/b7YK1t2/download.jpg",
+        "year": 2015,
+        "info": "In a futuristic society where an indestructible robot police force keeps crime at bay, a lone droid evolves to the next level of artificial intelligence."
+    },
+    {
+        "id": 91,
+        "name": "Bohemian Rhapsody",
+        "category_id": 11,
+        "Age": "13+",
+        "image": "https://i.ibb.co/MVF5V2w/download.jpg",
+        "year": 2018,
+        "info": "A shy misfit transforms into iconic Queen singer Freddie Mercury in this biopic inspired by the band's tumultuous rise to fame and personal struggles."
+    },
+    {
+        "id": 92,
+        "name": "Secret Superstar",
+        "category_id": 11,
+        "Age": "13+",
+        "image": "https://i.ibb.co/jyRjQYL/download.jpg",
+        "year": 2017,
+        "info": "A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral."
+    },
+    {
+        "id": 93,
+        "name": "BLACKPINK: Light Up the Sky",
+        "category_id": 11,
+        "Age": "13+",
+        "image": "https://i.ibb.co/z7jntM1/download.jpg",
+        "year": 2020,
+        "info": "Record-shattering Korean girl band BLACKPINK tell their story — and detail the hard-fought journey of the dreams and trials behind their meteoric rise."
+    },
+    {
+        "id": 94,
+        "name": "Shawn Mendes: In Wonder",
+        "category_id": 11,
+        "Age": "16+",
+        "image": "https://i.ibb.co/cb4nBm5/download.jpg",
+        "year": 2020,
+        "info": "Over the course of a world tour, this unguarded documentary follows Shawn Mendes as he opens up about his stardom, relationships and musical future."
+    },
+    {
+        "id": 95,
+        "name": "Rock On!!",
+        "category_id": 11,
+        "Age": "13+",
+        "image": "https://i.ibb.co/3pJDjYn/download.jpg",
+        "year": 2008,
+        "info": "Four friends hoped that their rock band would be a hit. After breaking up, the band members reunite and take another shot at fulfilling their dream."
+    },
+    {
+        "id": 96,
+        "name": "Hip-Hop Evolution",
+        "category_id": 11,
+        "Age": "A",
+        "image": "https://i.ibb.co/6bgjv4m/download.jpg",
+        "year": 2016,
+        "info": "Interviews with influential MCs, DJs and moguls trace the genre's dynamic evolution from the 1970s through the '00s in this documentary series."
+    },
+    {
+        "id": 97,
+        "name": "Forest of Piano",
+        "category_id": 11,
+        "Age": "16+",
+        "image": "https://i.ibb.co/R29XTpX/download.jpg",
+        "year": 2018,
+        "info": "Kai grows up playing an old piano discarded in the woods; Shuhei's father is a famous pianist. Their chance meeting transforms their lives and music."
+    },
+    {
+        "id": 98,
+        "name": "Beats",
+        "category_id": 11,
+        "Age": "16+",
+        "image": "https://i.ibb.co/H7yhM3F/download.jpg",
+        "year": 2019,
+        "info": "On Chicago's South Side, hip-hop prodigy August Monroe navigates crippling anxiety and new creative frontiers with the help of an unlikely mentor."
+    },
+    {
+        "id": 99,
+        "name": "Selena: The Series",
+        "category_id": 11,
+        "Age": "13+",
+        "image": "https://i.ibb.co/p32jRYp/download.jpg",
+        "year": 2020,
+        "info": "Iconic Mexican-American performer Selena rises to fame as she and her family make sacrifices in order to achieve their lifelong dreams."
+    },
+    {
+        "id": 100,
+        "name": "Joe Mande’s Award-Winning Comedy Special",
+        "category_id": 12,
+        "Age": "A",
+        "image": "https://i.ibb.co/PDKPQLY/download.jpg",
+        "year": 2017,
+        "info": "Stand-up comic Joe Mande aims for critical adulation with this special that covers dating shows."
+    },
+    {
+        "id": 101,
+        "name": "Canvas",
+        "category_id": 12,
+        "Age": "U",
+        "image": "https://i.ibb.co/Wsj5nQ5/download.jpg",
+        "year": 2020,
+        "info": "After a heartbreaking loss, a grandfather struggling to reclaim his passion for painting finds the inspiration to create again."
+    },
+    {
+        "id": 102,
+        "name": "The Departed",
+        "category_id": 12,
+        "Age": "A",
+        "image": "https://i.ibb.co/nRFSWS0/download.jpg",
+        "year": 2006,
+        "info": "Two rookie Boston cops are sent deep undercover — one inside the gang of a charismatic Irish mob boss and the other double-crossing his own department."
+    },
+    {
+        "id": 103,
+        "name": "Into the Wild",
+        "category_id": 12,
+        "Age": "16+",
+        "image": "https://i.ibb.co/8PpKvQW/download.jpg",
+        "year": 2007,
+        "info": "A young man gives up everything -- including his trust fund and ties to a seemingly stable family -- to lead a solitary life in the wild."
+    },
+    {
+        "id": 104,
+        "name": "If Anything Happens I Love You",
+        "category_id": 12,
+        "Age": "13+",
+        "image": "https://i.ibb.co/hyydD3V/download.jpg",
+        "year": 2020,
+        "info": "Grieving parents journey through an emotional void as they mourn the loss of a child in the aftermath of a tragic school shooting."
+    },
+    {
+        "id": 105,
+        "name": "Marriage Story",
+        "category_id": 12,
+        "Age": "16+",
+        "image": "https://i.ibb.co/sPNnJFd/download.jpg",
+        "year": 2019,
+        "info": "Academy Award-nominated filmmaker Noah Baumbach directs this incisive and compassionate look at a marriage coming apart and a family staying together."
+    },
+    {
+        "id": 106,
+        "name": "Mystic River",
+        "category_id": 12,
+        "Age": "16+",
+        "image": "https://i.ibb.co/b24Jwj1/download.jpg",
+        "year": 2003,
+        "info": "Haunted by a monstrous crime, three childhood friends in Boston cross paths again decades later in connection with a murder investigation."
+    },
+    {
+        "id": 107,
+        "name": "Erin Brockovich",
+        "category_id": 12,
+        "Age": "16+",
+        "image": "https://i.ibb.co/V3CdGJH/download.jpg",
+        "year": 2000,
+        "info": "Julia Roberts earned an Oscar in this emotional drama for her portrayal of a twice-divorced mother who sees an injustice and takes on the bad guys."
+    },
+    {
+        "id": 108,
+        "name": "The Call",
+        "category_id": 12,
+        "Age": "16+",
+        "image": "https://i.ibb.co/DQ6NQtg/download.jpg",
+        "year": 2020,
+        "info": "Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate."
+    },
+    {
+        "id": 109,
+        "name": "Hit & Run",
+        "category_id": 13,
+        "Age": "A",
+        "image": "https://i.ibb.co/7pmJT75/download.jpg",
+        "year": 2021,
+        "info": "A man searching for the truth behind his wife's death becomes caught up in a dangerous web of secrets and intrigue stretching from New York to Tel Aviv."
+    },
+    {
+        "id": 110,
+        "name": "Bad Boys for Life",
+        "category_id": 13,
+        "Age": "A",
+        "image": "https://i.ibb.co/51mrJ9n/download.jpg",
+        "year": 2020,
+        "info": "Even bad boys grow up, and Miami cop Marcus is ready for his well-deserved retirement — until partner Mike is targeted by a cutthroat drug cartel."
+    },
+    {
+        "id": 111,
+        "name": "Men in Black: International",
+        "category_id": 13,
+        "Age": "13+",
+        "image": "https://i.ibb.co/25kDQLz/download.jpg",
+        "year": 2019,
+        "info": "When shape-shifting aliens threaten Earth, a new recruit and a veteran MiB agent embark on a mission to save their own organization — and the world."
+    },
+    {
+        "id": 112,
+        "name": "Nightbooks",
+        "category_id": 13,
+        "Age": "7+",
+        "image": "https://i.ibb.co/CBYtkVj/download.jpg",
+        "year": 2021,
+        "info": "Scary story fan Alex must tell a spine-tingling tale every night — or stay trapped with his new friend in a wicked witch's magical apartment forever."
+    },
+    {
+        "id": 113,
+        "name": "The I-Land",
+        "category_id": 13,
+        "Age": "A",
+        "image": "https://i.ibb.co/cYNJ9Mr/download.jpg",
+        "year": 2019,
+        "info": "Wiped clean of memories and thrown together, a group of strangers fight to survive harsh realities -- and the island that traps them."
+    },
+    {
+        "id": 114,
+        "name": "Goosebumps",
+        "category_id": 13,
+        "Age": "7+",
+        "image": "https://i.ibb.co/84XBVZB/download.jpg",
+        "year": 2015,
+        "info": "A teen is glum about moving to a small town until he falls for his new neighbor. But her dad is a horror writer whose scary world soon turns real."
+    },
+    {
+        "id": 115,
+        "name": "14 Peaks: Nothing Is Impossible",
+        "category_id": 13,
+        "Age": "13+",
+        "image": "https://i.ibb.co/86sFvw8/download.jpg",
+        "year": 2021,
+        "info": "Fearless Nepali mountaineer Nimsdai Purja embarks on a seemingly impossible quest to summit all 14 of the world’s 8,000-meter peaks in seven months."
+    },
+    {
+        "id": 116,
+        "name": "Mowgli: Legend of the Jungle",
+        "category_id": 13,
+        "Age": "13+",
+        "image": "https://i.ibb.co/bd1wBy6/download.jpg",
+        "year": 2018,
+        "info": "An orphaned boy raised by animals in the jungle seizes his destiny while confronting a dangerous enemy -- and his own human origins."
+    },
+    {
+        "id": 117,
+        "name": "Seventh Son",
+        "category_id": 13,
+        "Age": "16+",
+        "image": "https://i.ibb.co/CmLn8cz/download.jpg",
+        "year": 2014,
+        "info": "In the 18th century, apprentice exorcist Tom Ward is the lynchpin in a battle between good and evil when imprisoned witch Mother Malkin escapes."
+    },
+    {
+        "id": 118,
+        "name": "House of Secrets: The Burari Deaths",
+        "category_id": 14,
+        "Age": "A",
+        "image": "https://i.ibb.co/GPCd2JN/download.jpg",
+        "year": 2021,
+        "info": "Suicide, murder... or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family."
+    },
+    {
+        "id": 119,
+        "name": "Plastic Island",
+        "category_id": 14,
+        "Age": "13+",
+        "image": "https://i.ibb.co/K2vtjn7/download.jpg",
+        "year": 2021,
+        "info": "This remarkable documentary follows a musician, a biologist and a lawyer who join forces to fight against plastic pollution in Indonesia."
+    },
+    {
+        "id": 120,
+        "name": "Breaking Boundaries: The Science Of Our Planet",
+        "category_id": 14,
+        "Age": "7+",
+        "image": "https://i.ibb.co/z7X4vMY/download.jpg",
+        "year": 2021,
+        "info": "David Attenborough and scientist Johan Rockström examine Earth's biodiversity collapse and how this crisis can still be averted."
+    },
+    {
+        "id": 121,
+        "name": "Our Planet - Behind The Scenes",
+        "category_id": 14,
+        "Age": "7+",
+        "image": "https://i.ibb.co/pZNGGCQ/download.jpg",
+        "year": 2019,
+        "info": "Years spent recording footage of creatures from every corner of the globe is bound to produce a bit of drama. Here's a behind-the-scenes look."
+    },
+    {
+        "id": 122,
+        "name": "Our Planet",
+        "category_id": 14,
+        "Age": "7+",
+        "image": "https://i.ibb.co/DDFzpvd/download.jpg",
+        "year": 2019,
+        "info": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope."
+    },
+    {
+        "id": 123,
+        "name": "Wild Wild Country",
+        "category_id": 14,
+        "Age": "A",
+        "image": "https://i.ibb.co/bsghG5Y/download.jpg",
+        "year": 2018,
+        "info": "When a controversial cult leader builds a utopian city in the Oregon desert, conflict with the locals escalates into a national scandal."
+    },
+    {
+        "id": 124,
+        "name": "Rise of Empires: Ottoman",
+        "category_id": 14,
+        "Age": "A",
+        "image": "https://i.ibb.co/W2GsmT0/download.jpg",
+        "year": 2020,
+        "info": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries."
+    },
+    {
+        "id": 125,
+        "name": "Crime Stories: India Detectives",
+        "category_id": 14,
+        "Age": "16+",
+        "image": "https://i.ibb.co/QCDV3B9/download.jpg",
+        "year": 2021,
+        "info": "Cameras following Bengaluru police on the job offer a rare glimpse into the complex and challenging inner workings of four major crime investigations."
+    },
+    {
+        "id": 126,
+        "name": "Drug Lords",
+        "category_id": 14,
+        "Age": "A",
+        "image": "https://i.ibb.co/68hY7hr/download.jpg",
+        "year": 2018,
+        "info": "Witness the stories of history's most notorious kingpins, their terrifying enforcers, and the men and women who've sworn to bring them down."
+    },
+    {
+        "id": 127,
+        "name": "Spider-Man: No Way Home",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/NZSM9tM/download.jpg",
+        "year": 2021,
+        "info": "When his loved ones are put at risk, Peter Parker asks Doctor Strange to restore his secret — and accidentally sets off a disaster of epic proportions."
+    },
+    {
+        "id": 128,
+        "name": "The Sea Beast",
+        "category_id": 15,
+        "Age": "7+",
+        "image": "https://i.ibb.co/MpPyFDw/download.jpg",
+        "year": 2022,
+        "info": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot."
+    },
+    {
+        "id": 129,
+        "name": "The Man from Toronto",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/7pHdvzd/download.jpg",
+        "year": 2022,
+        "info": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin known as The Man from Toronto in hopes of staying alive."
+    },
+    {
+        "id": 130,
+        "name": "Venom: Let There Be Carnage",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/7kKbf7g/download.jpg",
+        "year": 2021,
+        "info": "While Eddie Brock and Venom try to navigate their thorny relationship, a new threat rises from serial killer Cletus Kasady and a new alien symbiote."
+    },
+    {
+        "id": 131,
+        "name": "Hustle",
+        "category_id": 15,
+        "Age": "16+",
+        "image": "https://i.ibb.co/YRsjgDH/download.jpg",
+        "year": 2022,
+        "info": "When a down-on-his-luck basketball scout finds a potential superstar in Spain, he sets out to prove they both have what it takes to make it in the NBA."
+    },
+    {
+        "id": 132,
+        "name": "American Sniper",
+        "category_id": 15,
+        "Age": "16+",
+        "image": "https://i.ibb.co/vZGvVHb/download.jpg",
+        "year": 2014,
+        "info": "U.S. Navy SEAL marksman Chris Kyle racks up an unprecedented number of kills in Iraq, even as his home life starts to slip away from him."
+    },
+    {
+        "id": 133,
+        "name": "Men in Black: International",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/bLCL4H2/download.jpg",
+        "year": 2019,
+        "info": "When shape-shifting aliens threaten Earth, a new recruit and a veteran MiB agent embark on a mission to save their own organization — and the world."
+    },
+    {
+        "id": 134,
+        "name": "Fight Club",
+        "category_id": 15,
+        "Age": "A",
+        "image": "https://i.ibb.co/r48qNnY/download.jpg",
+        "year": 1999,
+        "info": "A disillusioned office worker finds an outlet for his pent-up feelings when he and mysterious new pal Tyler Durden start a violent underground society."
+    },
+    {
+        "id": 135,
+        "name": "Gods of Egypt",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/vD4sfRT/download.jpg",
+        "year": 2016,
+        "info": "After losing control of Egypt to dark god Set, who brings chaos to the land, god Horus teams up with a mortal thief to save humankind."
+    },
+    {
+        "id": 136,
+        "name": "Mimi",
+        "category_id": 16,
+        "Age": "13+",
+        "image": "https://i.ibb.co/WxXd9Tv/download.jpg",
+        "year": 2021,
+        "info": "An aspiring actress in a small town agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes unexpected turns."
+    },
+    {
+        "id": 137,
+        "name": "Sanju",
+        "category_id": 16,
+        "Age": "A",
+        "image": "https://i.ibb.co/d4WPS9p/download.jpg",
+        "year": 2018,
+        "info": "From the depths of addiction to the heights of stardom to underworld entanglements, this biopic traces the checkered past of Indian actor Sanjay Dutt."
+    },
+    {
+        "id": 138,
+        "name": "Zindagi Na Milegi Dobara",
+        "category_id": 16,
+        "Age": "13+",
+        "image": "https://i.ibb.co/WkfTXLj/download.jpg",
+        "year": 2011,
+        "info": "Three friends on an adventurous road trip/bachelor party in Spain learn some lessons about themselves and each other that will change them forever."
+    },
+    {
+        "id": 139,
+        "name": "Kabir Singh",
+        "category_id": 16,
+        "Age": "A",
+        "image": "https://i.ibb.co/dtwnpYj/download.jpg",
+        "year": 2019,
+        "info": "An exalted but short-fused surgeon plunges into a spiral of drugs, alcohol and rage after his intense relationship with his girlfriend turbulently ends."
+    },
+    {
+        "id": 140,
+        "name": "Raajneeti",
+        "category_id": 16,
+        "Age": "16+",
+        "image": "https://i.ibb.co/cwCRk5K/download.jpg",
+        "year": 2010,
+        "info": "When the American-educated scion of a powerful Indian family returns to the subcontinent, his first taste of power starts him down a corrupt path."
+    },
+    {
+        "id": 141,
+        "name": "Lakshya",
+        "category_id": 16,
+        "Age": "16+",
+        "image": "https://i.ibb.co/djLPkq2/download.jpg",
+        "year": 2004,
+        "info": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out."
+    },
+    {
+        "id": 142,
+        "name": "Yeh Jawaani Hai Deewani",
+        "category_id": 16,
+        "Age": "13+",
+        "image": "https://i.ibb.co/98dG65k/download.jpg",
+        "year": 2013,
+        "info": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again."
+    },
+    {
+        "id": 143,
+        "name": "Gangs of Wasseypur: Part 2",
+        "category_id": 16,
+        "Age": "A",
+        "image": "https://i.ibb.co/RYrdPbG/download.jpg",
+        "year": 2012,
+        "info": "As two rival clans continue their bloody feud in a crime-ridden mining town, the black sheep of one family steps up as leader, with only one goal: kill."
+    },
+    {
+        "id": 144,
+        "name": "Raat Akeli Hai",
+        "category_id": 16,
+        "Age": "A",
+        "image": "https://i.ibb.co/QPvNYBf/download.jpg",
+        "year": 2020,
+        "info": "When a newly married landlord is murdered, a misfit cop’s investigation is complicated by the victim’s secretive family and his own conflicted heart."
+    }
+]
