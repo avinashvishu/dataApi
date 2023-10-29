@@ -7,7 +7,7 @@ const dataApi = require('./data.json')
 app.use(cors());
 
 app.get("/", (req, res) => {
-    res.send("Hello I am live a")
+    res.send(dataApi)
 });
 
 app.get("/service", (req, res) => {
